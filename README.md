@@ -5,8 +5,8 @@
 🌐 Página/Aplicacion web: https://botanicopadel.com/
 
 ## Cuentas 📬 Contactos 📞 Turnos 📅
-- Whatsapp (Zona Norte): [+54 9 351 2021375](https://api.whatsapp.com/send?phone=5493512021375&text=Hola! Quiero contactarme con ustedes)
-- Whatsapp (Zona Sur): [+54 9 351 2299865](https://api.whatsapp.com/send?phone=5493512021375&text=Hola! Quiero contactarme con ustedes)
+- Whatsapp (Zona Norte): [+54 9 351 2021375](https://api.whatsapp.com/send?phone=5493512021375&text=Hola!%20Quiero%20contactarme%20con%20ustedes)
+- Whatsapp (Zona Sur): [+54 9 351 2299865](https://api.whatsapp.com/send?phone=5493512021375&text=Hola!%20Quiero%20contactarme%20con%20ustedes)
 - (Instagram) U: [botanicopadel](https://www.instagram.com/botanicopadel)
 - (BotanicoPadel) U: contacto@botanicopadel.com
 - (BotanicoPadel) U: noresponder@botanicopadel.com
