@@ -14,9 +14,9 @@ Página/Aplicacion web: https://botanicopadel.com/
 - (Google) U: botanicopadel@gmail.com
 
 ## Ubicación
-Córdoba, Argentina
-📍 Chancay 700
-📍 Circunvalación y Valparaiso
+- Córdoba, Argentina
+- 📍 Chancay 700
+- 📍 Circunvalación y Valparaiso
 
 ## Del desarrollador
 - U Plesk: ...
