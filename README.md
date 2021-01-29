@@ -15,8 +15,8 @@
 
 ## Ubicación 🏠
 - Córdoba, Argentina
-- 📍 Chancay 700
-- 📍 Circunvalación y Valparaiso
+- 📍 [Chancay 700](https://goo.gl/maps/pXP1btT7hXPZryDc8)
+- 📍 [Circunvalación y Valparaiso](https://goo.gl/maps/FCXkQxzDf99zY8Pz8)
 
 ## Del desarrollador 🖥️
 - U Plesk: ...
